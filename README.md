@@ -1,2 +1,2 @@
 # FU-CBAM-Net
-Fu-CBAM-Net deep learning model   are  used to   predict  airfoil  flow  filed 
+The Fu-CBAM-Net deep learning model is used to predict airfoil flow fields.
